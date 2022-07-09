@@ -3,7 +3,8 @@ import { makeStyles } from '@mui/styles'
 const useStyles = makeStyles(() => {
     return {
         page: {
-            marginTop: '64px',
+            marginTop: '70px',
+            marginLeft: '1rem',
         },
     }
 })

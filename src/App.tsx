@@ -9,6 +9,8 @@ const useStyles = makeStyles(() => {
             background: '#CFE0C3',
             height: '100vh',
             width: '100vw',
+            display: 'flex',
+            flexDirection: 'column',
         },
     }
 })
