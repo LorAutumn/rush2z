@@ -14,7 +14,7 @@ const MyAppBar = () => {
 
     return (
         <AppBar>
-            <Toolbar className={classes.appbar}>Cool Wordle</Toolbar>
+            <Toolbar className={classes.appbar}>Rush 2 Z</Toolbar>
         </AppBar>
     )
 }
